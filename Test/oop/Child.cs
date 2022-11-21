@@ -1,4 +1,6 @@
-﻿namespace Test
+﻿using oop;
+
+namespace Test
 {
     public class Child : Human
     {

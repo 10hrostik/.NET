@@ -1,4 +1,4 @@
-﻿namespace Test
+﻿namespace oop
 {
     public abstract class Mammal
     {
@@ -7,9 +7,9 @@
         {
             this.age = age;
         }
-        public int getAge() 
-        { 
-            return age; 
+        public int getAge()
+        {
+            return age;
         }
         public override string ToString()
         {
